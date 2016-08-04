@@ -14,7 +14,7 @@ namespace TopshelfSchedulerUsingAutofac
         {
             try
             {
-                _log.Info("Scheduler Process started.");
+                _log.Info("Scheduler Process Started.");
                  Thread.Sleep(2000);
                 _log.Info("Scheduler completed.");
             }
